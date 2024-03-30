@@ -10,8 +10,6 @@
 
 # Objektorientierte Analyse und Designverfahren
 
-# 
-
 # Planen eines Softwareproduktes
 ## Programmablaufplan
 ------------------------------------------------------------------------
