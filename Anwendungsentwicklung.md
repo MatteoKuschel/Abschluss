@@ -1,3 +1,17 @@
+# Vorgehensmodelle
+ - Wasserfallmodell
+ - Iterative-Modell (Spiralmodell, V-Modell)
+ - Agile Modelle
+
+# Anaylse und Designverfahren
+ - Top-Down Entwurf
+ - Bottom-Up Entwurf
+ - Modularisierung
+
+# Objektorientierte Analyse und Designverfahren
+
+# 
+
 # Planen eines Softwareproduktes
 ## Programmablaufplan
 ------------------------------------------------------------------------
@@ -28,6 +42,9 @@
 ### Master / Slave / Replikation
 ### Trigger / Prozedur
 ### Transkation
+ - Ein Transkation besteht aus mehreren SQL-Statements. 
+ - Die Statements werden als eine logische Einheit betrachtet. 
+ - Die werden Ihnnerhalb der Transkation entweder vollständig und fehlerfrei oder gar nicht ausgeführt.
 ------------------------------------------------------------------------
 ## Design Pattern
 ### MVC
@@ -50,6 +67,7 @@
  - Funktionale
  - Objektorientierte
 ### Call by Value / Reference
+### Plattformunabhängigkeit
 ------------------------------------------------------------------------
 ## Objektorientierung
 ### OOA, OOD, OOP

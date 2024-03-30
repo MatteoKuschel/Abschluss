@@ -30,6 +30,9 @@ Fähigkeit der Software, ihr Leistungsniveau unter festgelegten Bedingungen übe
  - Functionality(Funktionalität):
 Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen erfüllen die definierten Anforderungen.
 
+------------------------------------------------------------------------
+## Testverfahren
+
 # Datenschutz
 ## Datenschutzbeauftragten
 ------------------------------------------------------------------------
@@ -37,6 +40,8 @@ Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen er
 ------------------------------------------------------------------------
 # IT-Sicherheit
 ## symmetrische / asymmetrische Schlüssel
+------------------------------------------------------------------------
+## Datensichrung (Generationsprinzip)
 # IT-Systeme
 ## Architektur
 ------------------------------------------------------------------------
