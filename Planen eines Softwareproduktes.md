@@ -1,5 +1,58 @@
 # Projektmanagement
-## Risiko und Maßnahmen
+## Definition
+ - Projekt ist einmaliges Vorhaben mit klarem Ziel und einem definierten Anfang und Ende Termin. Also ist Zeitlich befristet.
+## Rahmenbedingungen (Asepkten) von Projekts (几个项目基本框架的方面)
+  - Wirtschaftliche (maximale Kosten)
+  - Technische (technische Standards)
+  - Rechtliche (Datenschutz-Grundverordnung)
+  - Terminliche (Start und End- Termin)
+  - Organisatorische (Organisationsform des Proejektes)
+## Kenngrößen (Beeinfluss auf Projekt) (影响项目的因素或者参数)
+  - Zeit 
+  - Kosten
+  - Qualität
+  - Umfang
+  - Risiko
+  - Fortschritt
+## Magischen Dreieck
+ - Qualität
+ - Kosten
+ - Zeit
+## SMART
+  - Damit Manager Fokus auf wesentliche Sache legen kann und Projekt Effektiver ausführen kann.
+  - S ===> 	spezifisch (Ziel sollte konkrete und spezifisch wie möglich formulieren)
+  - M	===>	messbar (Ziel sollte so definieren, dass Fortschritt nachfolgen kann)
+  - A	===>	attraktiv (Ziel sollte für allem reizvoll)
+  - R	===>	realistisch (Ziel sollte umsetzbar)
+  - T	===>	terminiert (Ziel sollte zeitlich geplant werden)
+## Stakeholder
+  -	Projektleiter
+  -	Projektmitarbeiter
+  -	Kunden
+  -	Benutzer
+  -	Auftraggeber
+  -	Sponsoren (赞助商)
+## Projektleiter
+  - Ziel festlegen
+  - Mitarbeitereinsatz plan
+  - Aufgaben verteilen
+  - Budget Kontrollieren
+## Aufgaben von Projektmanagement
+  -	Planung
+  -	Organisation
+  -	Personaleinsatz
+  -	Führung
+  -	Kontrolle
+## Projektphasen (DIN 69901)
+  -	Projektauftrag / Definition
+    - IST-Anaylse, Machbarkeitanalyse,Kostenschätzung
+  -	Projektplanung 
+    - Planung aller Projektressourcen
+  -	Projektdurchführung
+    - Abarbeitung der Arbeitspakete
+  -	Überwachung und Testen
+  -	Projektabschluss
+    - Übergabe des Projekts, Lessons Learned
 ## Funktionale und nicht Funktionale Anforderungen
  - Funktionale Anforderungen: die Anforderungen mit Zweck gebunden. (Hauptfunktion von der App)
    - Einlass Ticket kontrollieren
