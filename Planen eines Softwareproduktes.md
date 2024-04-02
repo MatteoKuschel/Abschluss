@@ -239,7 +239,7 @@ Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen er
     - Selbstbeschreibungsfähigkeit (Verständlichenkeit durch Rückmeldung)
     - Fehlertoleranz (unbekannte Fehler verhindern)
   ## Barrierenfreiheit am Arbeitsplatz
-    - Maßnahmen Sehvermögen
+    - Maßnahmen Sehvermögen (Schriftart und Farbegebung)
     - Maßnahmen Hörvermögen
     - Maßnahmen motorische Fähigkeiten
   ## Softwarelebenszyklus
@@ -302,3 +302,6 @@ Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen er
     - Nachteile:
       - Mehr Lernzeit
       - Ergebnisausgabe in Text
+  ## XML
+    - DTD
+    - Eigenschaft
