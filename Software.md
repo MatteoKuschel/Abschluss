@@ -113,4 +113,14 @@
       - Decimal (3,2)
       - Timestamp (Zeitpunkt)
       - Varchar(16)
-    - 
+    - Casecad
+    - Referentielle Integrität
+      - sichert die Dateninterität durch Anlegen einer Fremde Schlüssel in eine Tabelle, der auf einen anderen Tabelle verweist. Dadurch wird die Löschen und Update Operation beschränkt.
+      - Mit On delete cascade / On Update cascade wird die Beschränkung igonorieren.
+    - Transaktion
+      - eine Menge von SQL, die als eine logische Einheit betrachtet. die werden entweder vollständig und fehlerfrei oder gar nicht ausgeführt und zurückgerollt.
+    - Begin Transcation
+    - Commit (Beendet Transcation, führt die Befehl endgültig aus)
+    - Rollback (Beendet Transcation, Rollt die Zustand zurück auf vor der Starten der Transaktion)
+    
+    
