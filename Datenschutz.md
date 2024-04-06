@@ -2,7 +2,9 @@
   ## DSGVO (Datenschutzgrundverordnung)
   ### Datenshutz
     - rechtliche Aspeketen auf Schutz vor personbezognen Daten. ( Welchen Daten darf ich wozu verwenden?)
-  #### Grundsätze für Verarbeitung personenbezogener Daten
+    - Schutz vor missverbrauch von Datenverarbeitung
+    - Gewährleistung das Recht.
+  #### Grundsätze für Verarbeitung personenbezogener Daten (Verbotsprinzip)
     - Datenminimierung (Es sollte nur notwendige Daten erhoben werden.)
     - Zweckbindung (Erhobenen Daten sollte nur festgelegte, eindeutige Zweck relevant sein. Sie dürfen nicht einfach weiterverarbeiten.)
     - Verbot Ohne Erlaubnis (Um Daten zu nutzen muss eine Erlaubnis haben)
@@ -23,5 +25,9 @@
   #### Technische Organisatorische Maßnahmen
     - Eingabekontrolle (jede Änderung an Daten zu dokumentieren und zu protokollieren um Nachverfolgbarkeit zu gewährleisten)
     - Weitergabekontrolle (Sicherheit von personenbezogenen Daten während einer Datenweitergabe gewährleisten)
+    - Daten so früh wie möglich löschen
+    - Daten so früh wie möglich verschlüsseln
+  #### Schutzbedarfsanalyse
   ### Datensicherheit
     - technische Maßnahmen um Daten zu schützen.
+    - Unabhängig von Datenbezug.

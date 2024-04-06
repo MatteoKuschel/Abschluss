@@ -6,6 +6,11 @@
     - Mitarbeitereinsatz plan
     - Aufgaben verteilen
     - Budget Kontrollieren
+  ## Welche Rechte hat Projektleiter ?
+    - Entscheidungsrecht
+    - Weisungsrecht
+    - Recht zur Aufgabeverteilung
+    - Mitbestimmung oder Festlegung des Ziel von Projekt
   ## Wer sind Stakeholder ?
     -	Projektleiter
     -	Projektmitarbeiters
@@ -46,10 +51,10 @@
   ## Analyse
     - Ist-Soll Analyse
       - Das Zustand von Projekt mit Ziel vergleichen
-    - Bedarfsanalyse: den Bedarf von Kunden erkennen und damit Angebot erstellen.
+    - Bedarfsanalyse(Anforderungsanalyse) : den Bedarf von Kunden erkennen und damit Angebot erstellen.
       - Befragung (Umfrage oder Interview, um Sachverhalt zu ermitteln)
       - direkte/indirekte Beobachtung
-      - Aufgabenbeschreibung (User-Case-Diagramm)ß
+      - Aufgabenbeschreibung (User-Case-Diagramm)
     - Machbarkeitsanalyse
       - Organisatorische Umsetzung
       - Wirtschaftliche Umsetzung
@@ -60,11 +65,23 @@
     - Nutzwertanalyse
       - Auswahl der besten Lösung bei mehreren Lösungen.
       - Alle Lösungen werden von Gewichtung mit Punkten bewertet.
+      - zu Subjektiv
     - SWOT-analyse
       - S -> Stärken (Strength)
       - W -> Schwächen (Weakness)
       - O -> Chance (Opportunity)
       - T -> Risiken (Threat)
+  ## Kick-Off Meeting
+    - Sacheebene
+      - Klärung der Projektziele
+      - Risiken schätzen
+      - Aufgabe verteilen
+      - Aufwand schätzen
+    - Beziehungsebene
+      - Kennenlernen mit Kunden und Mitarbeiter
+      - Kennen von Rollen im Projekt
+      - Teamarbeiter Warmup
+      - Teambulding
   ## Funktionale und nicht Funktionale Anforderungen
     - Funktionale Anforderungen: die Anforderungen mit Zweck gebunden. (Hauptfunktion von der App)
       - Einlass Ticket kontrollieren
