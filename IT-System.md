@@ -38,9 +38,71 @@
     - Schützt vor potenziellen unerwartete Ausfall von Strom.
     - die Stromversorgung von allen Geräten ausgleichen. So hat man noch Zeit um Daten zu retten.
 
-  ## ERP, CRM, SCM, DMS
+  ## ERP, CRM, SCM, DMS, CMS
     - ERP (Warenwirtschaftsystem)
     - CRM (Kundenziehung verwalten und kunden historie darstellen und markting)
     - SCM (lieferkette management, matrial und informationfluss und resourcen)
     - DMS (elektronischer dokumente verwalten)
+    - CMS (Content Management System) digitale Inhalte (Text,Grafiken, Fotos, Vedios) erstellen und verwalten kann.
+    - CMA (Content Management Application) ohne HTML Kenntnisse Webseite zu erstellen.
+  
+  ## Virtualisierung
+    - ist eine Simulation von physischer Hardware. Dabei wird virtuelle Betriebssystem, Speicher und Netzwerk Ressourcen erzeugen.
+      
+      - Server-Virtualisierung (Prozessor, Festplatte, RAM, Netzwerkkarte)
+        - Ein Physischer Server in mehrere virtuelle Server logisch veteilt
+        - durch eine Virtualisierungssoftware erfolgt.
+        - dadurch die Hardware von der Software entkoppelt.
+      
+      - Speicher-Virtualisierung
+        - Mehrere Physischer Speicherkomponenten zusammenbinden, um eine Speicherpool zu erzeugen
+
+      - virtuelle Arbeitsplatzrechner (alle Elemente eines physischen Arbeitsbereichs auf einem Server)
+        - weniger Speicherplatz für Client
+        - Einfache Verwaltung der PCs
+        - Einfache installation
+        - Einfache Lizenzverwaltung
+  
+      - Vorteile:
+        - Geringe Anschaffungskosten
+        - Physischer Host ausnutzen
+        - Konsolidierung von Systemresourcen
+      - Nachteile:
+        - Ausfall alle Virtuelle Server, wenn Host ausfall
+        - Schlecht für Host
+  ## Zentrale und Dezentrale Server
+    - Zentrale
+      - weniger Anschaffungskosten
+      - weniger Verwaltungskosten
+    - Dezentrale
+      - Individuale Anpassung auf einzelen Server möglich
+      - Ausfallsicherheit
+  ## Level-Support
+    - Vorteile: 
+      - Systematische Bearbeitung von Anfragen
+      - Einhaltung von Service-Level-Agreements
+      - Nachvollziebarkeit aller Anfragen
+    - First Level
+      - erste Anlaufstelle, vollständig Erfassung, bei Gelegenheit an zweite weitergeben.
+    - Second Level
+      - Unterstürtzen first level, verfassen die Erfahrung für die first Level
+    - Third-Level
+      - besteht aus Fachspezialisten
+  ## Neue Technik
+    - Internet of Things besteht aus
+      - Sensoren
+      - Netzwerk
+      - Software
+  ## VPN Arten
+    - site-to-site
+    - client-to-site
+  ## Hosting
+    - Externe Hosting
+      - Kein Lastung eigener Internet oder Rechner Resourcen
+      - Besseres Know-how durch Spezialisierung
+    - Interne Hosting
+      - Kostengünstiger
+      - Datenschutz
+
+
   

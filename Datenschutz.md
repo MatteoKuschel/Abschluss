@@ -14,11 +14,14 @@
     - Löschung
     - Berichtigung
     - Auskunft
-    - Datenmitnahme
-    - Sperrung
+    - Einschränkung der Verarbeitung
+    - Widerspruch und Widerruf
   #### Fälle gegen Datenschutzgesetz und Maßnahmen
     - unberechtigte Datenmanipulation (Protokolle von Änderungen)
     - unberechtigte Zugriff (Zugangskontrolle, ZugriffsKontrolle, ZutrittsKontrolle)
     - Datenverlust (Backups)
+  #### Technische Organisatorische Maßnahmen
+    - Eingabekontrolle (jede Änderung an Daten zu dokumentieren und zu protokollieren um Nachverfolgbarkeit zu gewährleisten)
+    - Weitergabekontrolle (Sicherheit von personenbezogenen Daten während einer Datenweitergabe gewährleisten)
   ### Datensicherheit
     - technische Maßnahmen um Daten zu schützen.

@@ -37,3 +37,39 @@
       - Die Daten sollte korrekt und vollständig sind und nicht durch anderem verändert
     - Verfügbarkeit
       - Die Daten sollte jeder zeit von autorisierte person zugreifen können und nicht durch technische Störung beeinträchtigt.
+
+  ## Fälle der Sicherheit
+    - Höhere Gewalt
+    - Phishing Mail (Mithilfe von fake Webseite und E-mail wird daten ermittelt.)
+    - Vishing Anrufe
+    - Pharming (Damit wird die DNS angeriffen und auf fake Webseite umgeleitet.)
+    - Distributed Denial of Service (Überlastung server durch menge Abfragen Angriffe)
+  ## Backup
+    - VollDatensicherung
+      - Allen Daten werden gespeichert werden
+    Vorteile:
+      - Prozess einfach
+      - Einfach Wiederherstellen
+    Nachteile:
+      - Große Zeitlich Aufwand
+  
+    - Differentiellensicherung
+      - Zunächst Vollsichrung und dann wurde alle Daten, die seit letzte Vollsicherung geänderte wurden, gespeichert.
+    Vorteile:
+      - Schneller als Vollbackup
+    Nachteile:
+      - nicht effizient, sobald eine änderungen besteht, muss Sicherung durchführen
+      - Brauch mehr speicherplatz
+  
+    - Inkrementellensichrung
+      - Zunächst Vollsichrung und dann wurde der Daten, die seit letzten Sicherung geänderte wurden, gespeichert.
+    Vorteile:
+      - Effizient, jedes mal muss kleine Änderungen speichern
+      - schnell erlediglich
+    Nachteile:
+      - langsame wiederherstellung
+
+  ## Zwei Faktor Authtifizierung
+    - durch zwei unterscheidliche und unhängige Komponenten authtifizieren (Bankkarte mit Pin, Password mit Fingerprint)
+
+  

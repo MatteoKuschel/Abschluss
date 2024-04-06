@@ -105,10 +105,15 @@
     - Nachteile:
       - Mehr Lernzeit
       - Ergebnisausgabe in Text
-  ## XML
+  ## XML (Extensible Markup Language)
+    - Die Daten der Textdatei werden in einer hierarchischen Struktur gespeichert. 
+    - Die Elemente dieser Struktur werden durch Schlüsselworte (Tags) voneinander abgegrenzt
     - DTD
     - Eigenschaft
+  ## CSV (Comma Seperat Values)
+    - Textdatei ohne Steuerzeichen, in der die Daten in der Regel von einem Komma getrennt werden.
   ## Datenbank
+    besteht aus datenbank und datenbankmanagementsystem
     - Datatype
       - Decimal (3,2)
       - Timestamp (Zeitpunkt)
@@ -122,5 +127,24 @@
     - Begin Transcation
     - Commit (Beendet Transcation, führt die Befehl endgültig aus)
     - Rollback (Beendet Transcation, Rollt die Zustand zurück auf vor der Starten der Transaktion)
-    
+  ### datenbankmanagementsysten (MYSQL, SQL SERVER)
+    - Rollen, Recht und Benutzerverwaltung
+    - Gewährleistung der Datenintegrität
+    - Speichern, Löschen, Updaten Daten
+    - Umsetzung des Mehrbenutzerbetriebs
+    - Realisierung von Trigger und Procedures
+
+  
+  ## OOP
+    - Klasse
+      -  Definiert eine Kategorie von Objekten mit gleichen Attributen und Methoden. 
+      -  Sie stellt einen Bauplan für Objekte dar.
+    - Object
+      - Ein Instanz einer Klasse
+  
+  ## UML
+  ### Klassediagramm
+    - Beziehung
+      - Aggregation : Teil-Ganze-Beziehung, bei der die Teile unabhängig vom Ganzen existieren können
+      - Komposition : Teil-Ganze-Beziehung, bei der die Teile abhängig vom Ganzen existieren können
     
