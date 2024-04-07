@@ -17,3 +17,7 @@ Verhältnis zwischen dem Leistungsniveau der Software und dem Umfang der eingese
 Fähigkeit der Software, ihr Leistungsniveau unter festgelegten Bedingungen über einen festgelegten Zeitraum zu bewahren.
  - Functionality(Funktionalität):
 Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen erfüllen die definierten Anforderungen.
+## Lasten und Pflichtheften
+    - Lastenheften
+        - von Auftragsgeber erstellt
+        - enhält sämtliche Anforderungen, die vom Auftragnehmer erbracht werden sollen.   
