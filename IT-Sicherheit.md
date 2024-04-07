@@ -14,7 +14,7 @@
       - Bei den wird komplette Software nach Anforderungen getest.
     - Abnahmetest
       - Bei den wird Auftraggeber die geforderten Funktionalitäten getest.
-      - Black-Box-Test 
+      - Black-Box-Test (funktionorientierte Test, bei dem die Implementierung des Programms nicht bekannt ist.)
   ## Verschlüsselung
     - Symmetrische Verschlüsselung
       - Sender und Empfänger benutzen selben Schlüssel
@@ -30,20 +30,14 @@
       - Kompliziert
     - Hybride Verschlüsselung
 
-  ## Vertraulichkeit Integrität Verfügbarkeit
-    - Vertraulichkeit
-      - Die Daten darf nur von autorisierte Person zugreifen.
-    - Integrität
-      - Die Daten sollte korrekt und vollständig sind und nicht durch anderem verändert
-    - Verfügbarkeit
-      - Die Daten sollte jeder zeit von autorisierte person zugreifen können und nicht durch technische Störung beeinträchtigt.
-
   ## Fälle der Sicherheit
     - Höhere Gewalt
     - Phishing Mail (Mithilfe von fake Webseite und E-mail wird daten ermittelt.)
     - Vishing Anrufe
     - Pharming (Damit wird die DNS angeriffen und auf fake Webseite umgeleitet.)
     - Distributed Denial of Service (Überlastung server durch menge Abfragen Angriffe)
+    - Trojaner (Computerprogramm, im Hintergrund Virus hat.)
+    - Brute Forece Angriff (immer probieren bis es klappt)
   ## Backup
     - VollDatensicherung
       - Allen Daten werden gespeichert werden

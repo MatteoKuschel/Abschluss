@@ -94,8 +94,8 @@
       - Netzwerk
       - Software
   ## VPN Arten
-    - site-to-site
-    - client-to-site
+    - site-to-site (the whole network connection)
+    - client-to-site (single-connection)
   ## Hosting
     - Externe Hosting
       - Kein Lastung eigener Internet oder Rechner Resourcen
@@ -103,6 +103,36 @@
     - Interne Hosting
       - Kostengünstiger
       - Datenschutz
+  
+  ## Cloud computing
+    - Vorteile:
+      - Dadurch weniger Adminstrator brauchen
+      - kein Hardwareanschaffungskosten
+      - Hohe zeitliche Datenverfügbarkeit
+      - unbeschränkte Skalierbarkeit
+    - Nachteile:
+      - Sehr Internetabhängig
+      - Problem Schutz vor Daten
+    - Public Cloud
+      von Cloud Provider anbieten (Azure, AWS)
+      Kein Kontroll auf physischer Server
+      weniger Datensicherung
+    - Private Cloud
+      Server liegt bei Unternehmen
+      Kontroll auf physischer Server
+      mehr Datensichrung
+    - Hybrid Cloud
+      eine Kombination von Public und private Cloud
+  ## IAAS PAAS SAAS
+    - Plattform as a service (SAP Cloud, AWS Lambda)
+        - nur Hardware und Plattform anbieten. Inhaltlichen Anwendungen App muss kunden selbst entwicklen
+        - Datenbank, Entwicklungsumgebung
+    - Software as a service (Office 365)
+        - wird ein Software Produkt ausliefern, seinem IT-Infrastruktur und Plattform liegt aber bei externen IT-Dienst. Kunden errecht über Internet
+        - Business Central Saas
+    - Infrastructur as a service (AWS, Azure)
+        - nur Hardware anbieten auch als Cloud genannt. Plattform und App muss kunden selber verwalten und entwicklen.
+        - Netzwerk, Speicher, Betriebssystem
 
 
   

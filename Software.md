@@ -66,8 +66,8 @@
   ## Interpreter und Compiler  
     - Unterschied
       - Zeitpunkt der Quellcode Übersetzung
-      - Interpreter Sprachen erfolgt Übersetzung im lauf des Programm Zeilen zu Zeilen
-      - Compiler sprachen erfolgt vor Ausführung des gesamte Code von Programm
+      - Interpreter Sprachen erfolgt Übersetzung im lauf des Programm Zeilen zu Zeilen, im Lauf des Programm benötig
+      - Compiler sprachen erfolgt vor Ausführung des gesamte Code von Programm, im Lauf des Programm nicht benötig
   ## Linker
     - Führt alle Kompilierte Objectdatei mit anderen lauffähigen Datei oder Bibliothek zusammen. Hierdurch wird Zugriff zwischen Objectdateien verbunden, Wenn alle zugriffe aufgelöst wurden, wird Binärdatei erzeugen.
   ## Variable und Konstanten
@@ -124,9 +124,15 @@
       - Mit On delete cascade / On Update cascade wird die Beschränkung igonorieren.
     - Transaktion
       - eine Menge von SQL, die als eine logische Einheit betrachtet. die werden entweder vollständig und fehlerfrei oder gar nicht ausgeführt und zurückgerollt.
-    - Begin Transcation
-    - Commit (Beendet Transcation, führt die Befehl endgültig aus)
-    - Rollback (Beendet Transcation, Rollt die Zustand zurück auf vor der Starten der Transaktion)
+      - Begin Transcation
+      - Commit (Beendet Transcation, führt die Befehl endgültig aus)
+      - Rollback (Beendet Transcation, Rollt die Zustand zurück auf vor der Starten der Transaktion)
+  
+  ## Datenbankentwurf
+    - datenredundanz
+      - mehrfaches selben Daten in einer Datenbank, kann inkonsiszenze Daten haben (Datenintegrität)
+    - Normalisierung
+      - Verfahren zur Vermeidung von Datenredundanz, damit die Datenkonsistenz erhöhen.
   ### datenbankmanagementsysten (MYSQL, SQL SERVER)
     - Rollen, Recht und Benutzerverwaltung
     - Gewährleistung der Datenintegrität
@@ -141,10 +147,18 @@
       -  Sie stellt einen Bauplan für Objekte dar.
     - Object
       - Ein Instanz einer Klasse
+    - Vererbung
+      - eine Klasse Eigenschaften und Verhaltensweisen von einer anderen Klasse erbt. 
+      - Dabei wird eine neue Klasse erstellt (abgeleitete Klasse), die Methoden und Eigenschaften der bestehenden Klasse (Basis-Klasse) erbt
+    - Abstakt
+      - können nicht instanziiert werden
+      - Sobald eine Klasse abstrakte Methoden enthält, muss sie selbst auch abstrakt sein.
+      - Abstrakte Methoden haben keine Implementierung und muss in Subklassen überschrieben und implementiert.  
   
   ## UML
   ### Klassediagramm
     - Beziehung
-      - Aggregation : Teil-Ganze-Beziehung, bei der die Teile unabhängig vom Ganzen existieren können
+      - Aggregation : Teil-Ganze-Beziehung, bei der die Teile unabhängig vom Ganzen existieren können / zeigt die Navigierbarkeit zwischen Klassen
       - Komposition : Teil-Ganze-Beziehung, bei der die Teile abhängig vom Ganzen existieren können
+      - Vererbung   : Merkmale, eine Klasse erbt eine anderen Klasse.
     

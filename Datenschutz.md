@@ -12,6 +12,13 @@
     - Rechtmaßigkeit und Transparenz
     - Vertraulichkeit Interität Verfügbarkeit
     - Speicherbegrenzung (Die personenbezogener Daten dürfen so lange gespeichert werden, wie lang für die Zwecke erfoderlich ist. häufig mit Archivierungsfristen)
+  #### Vertraulichkeit Integrität Verfügbarkeit
+    - Vertraulichkeit
+      - Die Daten darf nur von autorisierte Person zugreifen.
+    - Integrität
+      - Die Daten sollte korrekt und vollständig sind und nicht durch anderem verändert
+    - Verfügbarkeit
+      - Die Daten sollte jeder zeit von autorisierte person zugreifen können und nicht durch technische Störung beeinträchtigt.
   #### Rechte der Betroffenen
     - Löschung
     - Berichtigung
@@ -25,9 +32,21 @@
   #### Technische Organisatorische Maßnahmen
     - Eingabekontrolle (jede Änderung an Daten zu dokumentieren und zu protokollieren um Nachverfolgbarkeit zu gewährleisten)
     - Weitergabekontrolle (Sicherheit von personenbezogenen Daten während einer Datenweitergabe gewährleisten)
+    - Zugriffskontroll, 
+    - Zutrittskontroll, 
+    - Zugangskontrolle
     - Daten so früh wie möglich löschen
     - Daten so früh wie möglich verschlüsseln
   #### Schutzbedarfsanalyse
+  #### BIS (Bundesamt für Sicherheit in der Informationstechnik)
+    - befasst sich mit allen Fragen rund um die IT-Sicherheit in der Informationsgesellschaft
+    - Die drei wichtigsten Schutzziele der Informationssicherheit sind „Vertraulichkeit“, „Integrität“ und „Verfügbarkeit“.
   ### Datensicherheit
     - technische Maßnahmen um Daten zu schützen.
     - Unabhängig von Datenbezug.
+  ### Maßnahmen um Datensicherheit zu erhöhen
+    - Backup
+    - Antivirusprogramm
+    - Firewall
+    - Zugriffskontroll, Zutrittskontroll, Zugangskontrolle
+    - Verschlüsselung von Daten

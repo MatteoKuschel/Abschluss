@@ -20,4 +20,7 @@ Vorhandensein von Funktionen mit festgelegten Eigenschaften. Diese Funktionen er
 ## Lasten und Pflichtheften
     - Lastenheften
         - von Auftragsgeber erstellt
-        - enhält sämtliche Anforderungen, die vom Auftragnehmer erbracht werden sollen.   
+        - enhält sämtliche Anforderungen, die vom Auftragnehmer erbracht werden sollen.  
+    - Pflichtheften
+        - von Auftragsnehmer erstellt
+        - enhält konkreten Umsetzung der Anforderungen 

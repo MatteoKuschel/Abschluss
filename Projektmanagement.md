@@ -11,6 +11,11 @@
     - Weisungsrecht
     - Recht zur Aufgabeverteilung
     - Mitbestimmung oder Festlegung des Ziel von Projekt
+  ## Teamentwicklung
+    - Forming  : Einstiegs und Findungsphase (Kennenlernen)
+    - Storming : Auseinandersetzungs- und Streitphase (Konflikt)
+    - Norming  : Regelungs- und Übereinkommensphase (Organisation)
+    - Performng: Arbeits- und Leistungsphase (Kooperation)
   ## Wer sind Stakeholder ?
     -	Projektleiter
     -	Projektmitarbeiters
@@ -32,9 +37,9 @@
     - Risiko
     - Fortschritt
   ## Was ist Magischen Dreieck ?
-    - Qualität
-    - Kosten
-    - Zeit
+    - Qualität (Sachziel)
+    - Kosten (Kostenziel)
+    - Zeit (Terminziel)
   ## Was ist SMART ?
     Damit Manager Fokus auf wesentliche Sache legen kann und Projekt Effektiver ausführen kann.
     - S ===> 	spezifisch (Ziel sollte konkrete und spezifisch wie möglich formulieren)
@@ -71,6 +76,14 @@
       - W -> Schwächen (Weakness)
       - O -> Chance (Opportunity)
       - T -> Risiken (Threat)
+  ## Netzplan
+    besteht aus
+      - Dauer der gesamten Projekts
+      - Dauer Vorgang in Arbeitstagen
+      - Freier Puffer eines Vorgang
+      - GEsamt Puffer eines Vorgangs
+  ## Kosten
+    - Selbstkosten = Gemeinkosten + Herstellkosten
   ## Kick-Off Meeting
     - Sacheebene
       - Klärung der Projektziele
