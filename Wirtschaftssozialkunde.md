@@ -90,3 +90,8 @@
 
 # Vorbote bei Vorstellungsgespräch
 
+# Verkaufsauftragsart
+ - zweiseitiges Handekskauf
+ - bürgerlicher Kauf
+ - einseitiges Handelskauf
+
